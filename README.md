@@ -6,8 +6,10 @@
    - **[download Link]**
      
      - 百度云网盘: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
-## 基准测试
+## 评测基准
+
 ## Progress
+
 <div>✅CHN-DF数据集发布</div>
 <div> [ ] 基准测试代码发布</div>
 
