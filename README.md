@@ -7,7 +7,7 @@
      
      - 百度云网盘: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
 ## 评测基准
-
+基于目前代码的可复现性，我们采用7种多模态人脸视频防伪领域先进方法进行的全面基准性能评估，具体代码已公开在此项目中。在此感谢[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)、[CV-IP/VFD](https://github.com/CV-IP/VFD)以及[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake)开源代码项目！
 ## Progress
 
 <div>✅CHN-DF数据集发布</div>
