@@ -11,5 +11,5 @@
 ## Progress
 
 <div>✅CHN-DF数据集发布</div>
-<div> [ ] 基准测试代码发布</div>
+<div>✅基准测试代码发布</div>
 
