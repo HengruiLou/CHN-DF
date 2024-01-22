@@ -1,15 +1,18 @@
-# 面向人脸视频防伪检测的大规模中文数据评测基准
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+# Large-Scale Chinese Data Benchmark for Face Video Anti-Forgery Identification
 ## Introduction
-此项目是关于《面向人脸视频防伪检测的大规模中文数据评测基准》论文的基准代码以及CHN-DF数据集发布
+This project consists of the benchmark and the CHN-DF dataset for the paper "[Large-Scale Chinese Benchmark for Face Video Anti-Forgery Identification](https://chinaxiv.org/abs/202401.00241)."
 ## CHN-DF
-全球首个人脸视频防伪检测的大规模中文数据集CHN-DF可在下面的链接中下载：
+The world's first large-scale Chinese dataset for face video anti-forgery identification, CHN-DF, can be downloaded at the following link.
    - **[download Link]**
      
-     - 百度云网盘: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
-## 评测基准
-基于目前代码的可复现性，我们采用8种多模态人脸视频防伪检测领域先进方法进行的全面基准性能评估，具体代码已公开在此项目中。在此感谢[DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb)、[CV-IP/VFD](https://github.com/CV-IP/VFD)、[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake)以及[SYSU-DISG/AVoiD-DF](https://github.com/SYSU-DISG/AVoiD-DF)开源代码项目！
+     - Baiduyun: [this link](https://pan.baidu.com/s/1DqKtDQBw20dd9Ry1gzkTXg), code: 6666
+## Benchmark
+For code reproducibility, we conducted a comprehensive benchmark performance evaluation using eight advanced methods in the field of multi-modal face video anti-forgery identification. The specific code has been made available in this project.
+Thanks for [DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb),[CV-IP/VFD](https://github.com/CV-IP/VFD),[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake) and [SYSU-DISG/AVoiD-DF](https://github.com/SYSU-DISG/AVoiD-DF)!
 ## Progress
 
-<div>✅CHN-DF数据集发布</div>
-<div>✅基准测试代码发布</div>
+<div>✅Release of the CHN-DF dataset"</div>
+<div>✅Release of the benchmark</div>
+
 
