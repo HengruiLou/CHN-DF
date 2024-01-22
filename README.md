@@ -12,7 +12,7 @@ For code reproducibility, we conducted a comprehensive benchmark performance eva
 Thanks for [DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb),[CV-IP/VFD](https://github.com/CV-IP/VFD),[abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake) and [SYSU-DISG/AVoiD-DF](https://github.com/SYSU-DISG/AVoiD-DF)!
 ## Progress
 
-<div>✅Release of the CHN-DF dataset"</div>
+<div>✅Release of the CHN-DF dataset</div>
 <div>✅Release of the benchmark</div>
 
 
