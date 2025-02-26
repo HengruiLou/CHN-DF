@@ -16,3 +16,5 @@ Thanks for [DASH-Lab/FakeAVCeleb](https://github.com/DASH-Lab/FakeAVCeleb),[CV-I
 <div>✅Release of the benchmark</div>
 
 
+## License
+The use of this project is RESTRICTED to Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). More details about the license could be found in [LICENSE](https://creativecommons.org/licenses/by-nc/4.0/).
