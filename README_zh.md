@@ -15,3 +15,5 @@
 <div>✅CHN-DF数据集发布"</div>
 <div>✅评测基准发布</div>
 
+## License
+鉴于人脸视频数据的敏感特性，在此声明CHH-DF数据集已签署CC-BY-NC协议，将数据集使用范围限定在科研教育范围内，禁止商业化使用，具体可见[LICENSE](https://creativecommons.org/licenses/by-nc/4.0/).
